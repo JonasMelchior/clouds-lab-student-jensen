@@ -52,7 +52,6 @@ def doc_freq(tf_rdd):
     )
 
     return doc_map_freq.reduceByKey(lambda a, b: a + b)
-    raise NotImplementedError("Phase 3: implement doc_freq()")
 
 
 def build_tfidf_rdd(docs_rdd, num_docs: int):
