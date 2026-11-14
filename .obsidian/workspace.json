@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "submission/phase2_reflection.md",
+                "file": "submission/phase3_comparison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phase2_reflection"
+              "title": "phase3_comparison"
             }
           }
         ]
@@ -190,6 +190,14 @@
   },
   "active": "694f67ba23d04702",
   "lastOpenFiles": [
+    "submission/phase3_comparison.md.tmp.10800.e8a07ddd0d33",
+    "submission/phase3_comparison.md.tmp.10800.2ef7b92888e1",
+    "submission/phase3_comparison.md.tmp.10800.3309021fdb29",
+    "submission/phase3_comparison.md.tmp.10800.5e0fc15bd557",
+    "submission/phase3_comparison.md.tmp.10800.04fd1a43f5ee",
+    "submission/phase3_comparison.md.tmp.10800.827856da793d",
+    "submission/phase3_comparison.md.tmp.10800.f25962234f40",
+    "submission/phase2_reflection.md",
     "submission/latency_comparison.png",
     "submission/phase1_report.md"
   ]
